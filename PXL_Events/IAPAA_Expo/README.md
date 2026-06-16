@@ -7,8 +7,6 @@
 
 # Reflection
 
----
-
 ## Korthagen Reflection Model
 
 ### Action
