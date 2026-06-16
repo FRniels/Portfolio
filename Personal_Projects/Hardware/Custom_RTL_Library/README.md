@@ -5,7 +5,7 @@
 <table border="0">
   <tr>
     <td align="center">
-      <img src="../Images/FPGA_IPs.png" width="200%">
+      <img src="../Images/FPGA_IPs.png" width="500px">
     </td>
     <td>
       Throughout the past 3 years (2023-2026), my main focus has been around FPGA design, and more specifically RTL design. My focus on FPGA development led to a vast amount of research, experimentation, numerous prototypes, actual designs (of which a small amount is mentioned in this portfolio) and a custom library of IPs.
@@ -23,13 +23,15 @@
 <table border="0">
   <tr>
     <td>
-      Primitives:
-      - Multiplexers: MUX (a)sync
-      - Buffers: FIFO
-      - Shift registers: SIPO, PISO, PIPO, ...
-      - Counter / timer / PWM
-      - Pulse / strobe generator
-      - ROM / Dual port RAM 
+      <table >
+        <tr>Primitives:</tr>
+        <tr>- Multiplexers: MUX (a)sync</tr>
+        <tr>- Buffers: FIFO</tr>
+        <tr>- Shift registers: SIPO, PISO, PIPO, ...</tr>
+        <tr>- Counter / timer / PWM</tr>
+        <tr>- Pulse / strobe generator</tr>
+        <tr>- ROM / Dual port RAM</tr>
+      </table>
     </td>
     <td align="center">
       <img src="../Images/MUX.png" width="100%">
