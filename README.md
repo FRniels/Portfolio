@@ -19,4 +19,9 @@ This folder includes subjects I research and/or built on my own initiative, outs
 The three main subjects to be found in here are FPGA development, and specifically RTL development, Digital Signal Processing and RF development like RADAR systems.
 These subjects reflect my personal interests and are the skills and knowledge i hone in on the most.
 
+### 📁 Bachelor's thesis
+This folder shows the thesis abstract as a way to give some information.
+As this thesis falls under NDA, it is not possible to share further detail.
+Gaining access to further detail can always be discussed.
+
 ---
