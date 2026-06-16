@@ -4,6 +4,9 @@
 
 ![OSCAR logo](../Images/OSCAR_Logo_NoBg.png)
 
+# Title
+Development of an FPGA-based data acquisition and control system for quantum diamond magnetometers
+
 ## Abstract
 
 An FPGA-based data acquisition and control subsystem is designed, implemented, and partially validated for integration into the OSCAR EduQUBE quantum diamond magnetometer demonstrator, advancing the throughput and timing capabilities of the existing microcontroller-FGPA-based readout toward nanosecond-deterministic hardware execution and faster data acquisition times.
