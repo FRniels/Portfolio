@@ -25,7 +25,7 @@
     <td>
       <b>Primitives:</b>
       <ul>
-        <li>Multiplexers: MUX (a)sync</li>
+        <li>Multiplexers: MUX</li>
         <li>Buffers: FIFO</li>
         <li>Shift registers: SIPO, PISO, PIPO, ...</li>
         <li>Counter / timer / PWM</li>
@@ -51,7 +51,7 @@
       <ul>
         <li>UART</li>
         <li>I2C</li>
-        <li>SPI / QSPIv
+        <li>SPI / QSPI</li>
         <li>PS/2</li>
         <li>VGA</li>
         <li>Line encodings</li>
@@ -89,6 +89,7 @@
         <li>RGB to Grayscale</li>
         <li>Audio: volume, delay, distortion,...</li>
         <li>Average / moving average</li>
+        <li>DDS</li>
         <li>FIR Low Pass Filter</li>
         <li>Lock-in amplifier</li>
       </ul>
