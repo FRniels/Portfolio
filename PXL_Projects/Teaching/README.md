@@ -1,10 +1,8 @@
-# Teaching a fellow student
+# Tutoring a First-Year Electronics-ICT Student
 
 ![Teaching](../Images/Teaching.png)
 
 ---
-
-# Tutoring a First-Year Electronics-ICT Student
 
 ## Korthagen Reflection Model
 
