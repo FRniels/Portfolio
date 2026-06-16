@@ -5,7 +5,7 @@
 <table border="0">
   <tr>
     <td align="center">
-      <img src="../Images/FPGA_IPs.png" width="100%">
+      <img src="../Images/FPGA_IPs.png" width="200%">
     </td>
     <td>
       Throughout the past 3 years (2023-2026), my main focus has been around FPGA design, and more specifically RTL design. My focus on FPGA development led to a vast amount of research, experimentation, numerous prototypes, actual designs (of which a small amount is mentioned in this portfolio) and a custom library of IPs.
@@ -60,6 +60,7 @@
 
 <table border="0">
   <tr>
+    <td><img src="../Images/CDC.png" width="100%"></td>
     <td>
       Clock Domain Crossing:
       - FlipFlop sync
@@ -67,9 +68,6 @@
       - CDC handshake bridge
       - Async FIFO (cummings architecture) 
     </td>
-  <tr>
-  <tr>
-    <td><img src="../Images/CDC.png" width="100%"></td>
   </tr>
 </table>
 
