@@ -2,7 +2,7 @@
 
 ---
 
-<table>
+<table border="0">
   <tr>
     <td align="center">
       <img src="../Images/TI_IWR1642.JPG" width="100%">
@@ -15,7 +15,7 @@
 
 ---
 
-<table>
+<table border="0">
   <tr>
     <td>
       The choice for using DB-scan as clustering algorithm was  driven by making a comparison to the more lightweight K-means cluster algorithm. In this comparison, DB-scan came out the strongest because of it handling arbitrary data point shapes that will occur in an on-stage setting better than K-means.
@@ -28,7 +28,7 @@
 
 ---
 
-<table>
+<table border="0">
   <tr>
     <td align="center">
       <img src="../Images/Radar_DBSCAN_Clustering.png" width="100%">
@@ -41,7 +41,7 @@
 
 ---
 
-<table>
+<table border="0">
   <tr>
     <td>
       Alongside the basic python plot of the captured and clustered RADAR data, an extensive web user interface is made. The web interface allows for different views of the axis system. This includes a static top down view, a static 3th person view, dynamic 3th person view looking in the direction of the radar and finally these 3 views displayed all at once. The user can also activate a heatmap that easily reveils areas of high point density. The amount of detected points and amount of clusters are also reported along side the cluster center coordinates. Each individual point can be selected to reveil its specific coordinate. 
