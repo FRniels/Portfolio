@@ -64,7 +64,6 @@
 
 <table border="0">
   <tr>
-    <td><img src="../Images/CDC.png" width="100%"></td>
     <td>
       <b>Clock Domain Crossing:</b>
       <ul>
@@ -74,6 +73,7 @@
         <li>Async FIFO (cummings architecture)</li>
       </ul> 
     </td>
+    <td><img src="../Images/CDC.png" width="100%"></td>
   </tr>
 </table>
 
@@ -100,15 +100,15 @@
 
 <table border="0">
   <tr>
-    <td>
+    <td>  
       <b>Control IPs</b>
       <ul>
         <li>Interface controller</li>
         <li>Register map </li>
       </ul>
     </td>
-  <tr>
-  <tr>
-    <td><img src="../Images/Controller.png" width="100%"></td>
+    <td>
+      <img src="../Images/Controller.png" width="100%">
+    </td>
   </tr>
 </table>
