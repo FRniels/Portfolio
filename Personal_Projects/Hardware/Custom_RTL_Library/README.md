@@ -23,15 +23,15 @@
 <table border="0">
   <tr>
     <td>
-      <table >
-        <tr>Primitives:</tr>
-        <tr>- Multiplexers: MUX (a)sync</tr>
-        <tr>- Buffers: FIFO</tr>
-        <tr>- Shift registers: SIPO, PISO, PIPO, ...</tr>
-        <tr>- Counter / timer / PWM</tr>
-        <tr>- Pulse / strobe generator</tr>
-        <tr>- ROM / Dual port RAM</tr>
-      </table>
+      <b>Primitives:</b>
+      <ul>
+        <li>Multiplexers: MUX (a)sync</li>
+        <li>Buffers: FIFO</li>
+        <li>Shift registers: SIPO, PISO, PIPO, ...</li>
+        <li>Counter / timer / PWM</li>
+        <li>Pulse / strobe generator</li>
+        <li>ROM / Dual port RAM</li>
+      </ul>
     </td>
     <td align="center">
       <img src="../Images/MUX.png" width="100%">
@@ -47,13 +47,15 @@
       <img src="../Images/SPI.png" width="100%">
     </td>
     <td>
-      Communication:
-      - UART
-      - I2C
-      - SPI / QSPI
-      - PS/2
-      - VGA
-      - Line encodings
+      <b>Communication:</b>
+      <ul>
+        <li>UART</li>
+        <li>I2C</li>
+        <li>SPI / QSPIv
+        <li>PS/2</li>
+        <li>VGA</li>
+        <li>Line encodings</li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -64,11 +66,13 @@
   <tr>
     <td><img src="../Images/CDC.png" width="100%"></td>
     <td>
-      Clock Domain Crossing:
-      - FlipFlop sync
-      - Pulse stretch sync
-      - CDC handshake bridge
-      - Async FIFO (cummings architecture) 
+      <b>Clock Domain Crossing:</b>
+      <ul>
+        <li>FlipFlop sync</li>
+        <li>Pulse stretch sync</li>
+        <li>CDC handshake bridge</li>
+        <li>Async FIFO (cummings architecture)</li>
+      </ul> 
     </td>
   </tr>
 </table>
@@ -80,12 +84,14 @@
       <img src="../Images/DSP_Lockin_Amp.png" width="100%">
     </td>
     <td>
-      Digital Signal Processing
-      - RGB to Grayscale
-      - Audio: volume, delay, distortion,...
-      - Average / moving average
-      - FIR Low Pass Filter
-      - Lock-in amplifier
+      <b>Digital Signal Processing</b>
+      <ul>
+        <li>RGB to Grayscale</li>
+        <li>Audio: volume, delay, distortion,...</li>
+        <li>Average / moving average</li>
+        <li>FIR Low Pass Filter</li>
+        <li>Lock-in amplifier</li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -95,9 +101,11 @@
 <table border="0">
   <tr>
     <td>
-      Control IPs
-      - Interface controller
-      - Register map 
+      <b>Control IPs</b>
+      <ul>
+        <li>Interface controller</li>
+        <li>Register map </li>
+      </ul>
     </td>
   <tr>
   <tr>
